@@ -1,0 +1,88 @@
+const formItems = [
+  {
+    id: 0,
+    label: "Name",
+    type: "text",
+    value: "",
+    form: "Personal Info",
+  },
+  {
+    id: 1,
+    label: "Email",
+    type: "email",
+    value: "",
+    form: "Personal Info",
+  },
+  {
+    id: 2,
+    label: "Phone",
+    type: "tel",
+    value: "",
+    form: "Personal Info",
+  },
+  {
+    id: 3,
+    label: "School",
+    type: "text",
+    value: "",
+    form: "Education",
+  },
+  {
+    id: 4,
+    label: "Degree",
+    type: "text",
+    value: "",
+    form: "Education",
+  },
+  {
+    id: 5,
+    label: "Start Date",
+    type: "text",
+    value: "",
+    form: "Education",
+  },
+  {
+    id: 6,
+    label: "End Date",
+    type: "text",
+    value: "",
+    form: "Education",
+  },
+  {
+    id: 7,
+    label: "Company",
+    type: "text",
+    value: "",
+    form: "Experience",
+  },
+  {
+    id: 8,
+    label: "Role",
+    type: "text",
+    value: "",
+    form: "Experience",
+  },
+  {
+    id: 9,
+    label: "Start Date",
+    type: "text",
+    value: "",
+    form: "Experience",
+  },
+  {
+    id: 10,
+    label: "End Date",
+    type: "text",
+    value: "",
+    form: "Experience",
+  },
+  {
+    id: 11,
+    label: "Responsibilities",
+    type: "textarea",
+    value: "",
+    form: "Experience",
+  },
+];
+
+export { formItems };
